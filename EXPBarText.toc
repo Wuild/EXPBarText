@@ -1,0 +1,8 @@
+## Interface: 11305
+## Title: ExpBarText|cFF00FF00 1.0.0|r
+## Author: Wuild
+## Version: 1.0.0
+## SavedVariables: ExpBarSettings
+
+#embeds
+EXPBarText.xml

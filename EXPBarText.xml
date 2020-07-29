@@ -1,0 +1,11 @@
+<Ui xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
+    <Script file="EXPBarText.lua"/>
+
+    <Frame name="EXPBarText" mixin="SimpleEXPBar">
+        <Scripts>
+            <OnLoad method="OnLoad"/>
+<!--            <OnEvent method="OnEvent"/>-->
+            <OnUpdate method="OnUpdate" />
+        </Scripts>
+    </Frame>
+</Ui>
